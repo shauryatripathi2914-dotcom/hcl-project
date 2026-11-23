@@ -1,0 +1,256 @@
+Customer_ID,Account_Type,City,Preferred_Channel,Has_Credit_Card,Age,Monthly_Income_INR,Tenure_Years,Complaints_Last_Year,Last_Activity_Date,Satisfaction_Score
+C1067,Salary,Chennai,Net Banking,No,46,38000,4.6,1,2025-09-12,57.6
+C1127,Savings,Pune,Branch,Yes,28,91000,0.5,1,2025-03-14,63.2
+C1073,Salary,,Branch,No,43,19000,4.9,0,2025-11-15,53.1
+C1157,Savings,Mumbai,Mobile App,Yes,45,36500,11.8,1,2025-03-09,76.5
+C1017,Savings,Pune,Mobile App,Yes,44,69000,6.7,2,2025-12-15,62.1
+C1136,Current,Mumbai,Mobile App,Yes,49,58000,7.9,0,2025-11-05,84.3
+C1183,Savings,Bengaluru,Branch,No,54,34500,4.4,2,2026-05-11,51.3
+C1050,Salary,Delhi,Net Banking,No,29,54500,11.0,0,2026-09-18,72.3
+C1054,Savings,Delhi,Mobile App,No,46,37500,5.9,0,2025-07-10,69.1
+C1028,Savings,Delhi,Mobile App,Yes,57,87500,5.0,3,2025-09-04,48.7
+C1222,Salary,Mumbai,Branch,No,45,78500,13.9,0,2026-07-03,75.2
+C1228,Savings,Chennai,Mobile App,No,27,78500,7.2,3,2025-09-05,53.7
+C1167,Current,Mumbai,Mobile App,No,44,39500,9.2,1,2026-07-12,68.4
+C1132,Savings,Delhi,Net Banking,No,40,48500,6.1,0,2025-07-07,78.6
+C1027,Current,Mumbai,Branch,No,34,70500,4.1,1,2026-04-04,68.5
+C1061,Salary,Delhi,Mobile App,Yes,46,54500,3.1,2,2026-08-01,53.5
+C1201,Savings,Pune,Mobile App,Yes,41,71500,6.2,1,2025-06-16,70.8
+C1046,Savings,Delhi,Mobile App,Yes,44,21500,18.0,3,2026-02-24,86.2
+C1233,Savings,Delhi,Mobile App,Yes,30,79000,8.3,1,2025-03-05,76.1
+C1181,Current,Mumbai,Mobile App,No,33,35500,0.5,0,2026-07-01,74.2
+C1196,Salary,Mumbai,Branch,Yes,36,58500,7.6,2,2025-05-31,63.4
+C1142,Savings,Delhi,Mobile App,No,68,28000,3.2,2,2026-11-03,56.9
+C1012,Student,Bengaluru,Branch,Yes,24,14000,6.0,0,2025-05-08,65.6
+C1168,Salary,Mumbai,Branch,No,41,47500,3.8,2,2026-01-10,50.4
+C1080,Savings,Delhi,Mobile App,No,53,115500,7.8,2,2026-05-03,62.0
+C1047,Student,Mumbai,Branch,No,22,14500,4.0,1,2025-03-24,69.7
+C1128,Current,Delhi,Net Banking,Yes,28,40000,10.0,2,2026-06-25,46.0
+C1194,Salary,Bengaluru,Net Banking,Yes,41,,14.5,1,2026-09-28,83.9
+C1027,Current,Mumbai,Branch,No,34,70500,4.1,1,2026-04-04,68.5
+C1081,Savings,Mumbai,Mobile App,No,23,31500,3.1,2,2025-08-30,60.8
+C1032,Savings,Pune,Mobile App,No,27,37000,9.0,2,2026-01-11,74.3
+C1198,Savings,Pune,Branch,No,41,31000,6.3,3,2026-07-03,55.3
+C1239,Salary,Bengaluru,Mobile App,Yes,43,52000,0.6,0,2026-10-28,55.0
+C1077,Savings,Bengaluru,Net Banking,No,44,64500,13.7,1,2026-09-07,71.8
+C1056,Student,Mumbai,Mobile App,No,25,5000,5.2,0,2026-07-31,71.2
+C1249,Salary,Delhi,Mobile App,No,55,59000,8.7,2,2026-03-04,71.4
+C1004,Savings,Chennai,Branch,Yes,57,24500,7.9,3,2026-07-04,44.1
+C1106,Current,Pune,Mobile App,Yes,38,102500,2.4,2,2025-03-21,61.4
+C1059,Student,Delhi,Mobile App,Yes,25,7500,1.9,0,2025-03-07,68.9
+C1105,Savings,Delhi,Net Banking,No,50,61000,2.6,1,2025-10-22,51.8
+C1038,Savings,Delhi,Mobile App,No,52,59000,1.8,1,2026-03-03,56.6
+C1161,Student,Pune,Branch,No,24,7500,6.0,2,2025-08-03,52.8
+C1250,Salary,Chennai,Net Banking,Yes,35,15000,,0,2026-07-23,68.2
+C1030,Salary,,Branch,Yes,47,38000,6.9,1,2026-08-12,59.5
+C1090,Salary,Chennai,Mobile App,Yes,38,21500,7.4,1,2025-10-09,62.0
+C1207,Savings,Delhi,Mobile App,No,150,34500,6.4,2,2025-05-20,70.6
+C1237,Salary,Bengaluru,Mobile App,Yes,43,39500,,1,2026-03-14,67.7
+C1010,Student,Pune,Mobile App,No,23,10000,5.0,0,2024-12-25,74.0
+C1185,savings,Delhi,Branch,No,27,109500,5.5,0,2026-05-13,77.7
+C1094,Salary,Chennai,Mobile App,No,21,32000,3.0,0,2024-12-28,61.1
+C1184,Savings,Pune,Net Banking,No,34,116500,14.6,2,2026-10-12,78.5
+C1019,Salary,Chennai,Branch,No,54,37000,2.8,3,2025-04-30,48.6
+C1022,Student,,Mobile App,No,26,18500,5.5,0,2025-07-22,79.1
+C1107,Savings,Mumbai,Mobile App,No,51,27000,6.2,0,2026-09-07,73.5
+C1033,Savings,Delhi,Net Banking,No,37,60500,7.6,4,2025-06-29,41.1
+C1029,Savings,Chennai,Branch,No,66,69500,10.9,1,2026-08-26,58.7
+C1160,Savings,Bengaluru,Mobile App,Yes,21,74000,3.0,0,2025-10-14,61.8
+C1187,Savings,Delhi,Branch,No,21,47500,3.0,1,2025-12-16,62.2
+C1108,Savings,Delhi,Branch,Yes,70,52500,7.4,2,2025-12-12,43.5
+C1088,Savings,Bengaluru,Branch,No,31,42500,3.4,3,2026-10-30,45.6
+C1040,Student,Delhi,Net Banking,Yes,22,15500,2.0,1,2025-12-28,59.0
+C1179,Current,Pune,Mobile App,Yes,46,48000,8.8,2,2024-11-30,65.4
+C1020,Salary,Mumbai,Mobile App,No,30,68000,5.2,4,2025-05-11,35.3
+C1162,Savings,Mumbai,Net Banking,Yes,23,23500,4.0,0,2025-08-27,68.6
+C1101,Salary,Delhi,Branch,No,56,63000,1.5,1,2026-10-12,52.4
+C1025,Student,Chennai,Mobile App,No,22,7000,4.0,1,2026-11-07,78.1
+C1212,Savings,Delhi,Mobile App,No,43,37000,7.3,1,2026-05-23,57.4
+C1045,Savings,Delhi,Branch,Yes,29,81000,6.8,1,2025-03-20,53.8
+C1150,Salary,Delhi,Branch,No,54,29500,4.3,0,2026-03-17,59.4
+C1133,Salary,Chennai,Net Banking,Yes,38,57000,10.6,0,2025-06-11,82.1
+C1034,Salary,Delhi,Branch,No,22,57000,4.0,1,2026-07-19,55.7
+C1153,SALARY,Chennai,Branch,Yes,26,11000,8.0,1,2026-02-23,63.2
+C1186,Salary,Mumbai,Net Banking,Yes,36,25500,13.8,1,2025-03-22,74.3
+C1240,Salary,Chennai,Mobile App,Yes,28,100000,10.0,0,2025-06-30,82.3
+C1018,Salary,Bengaluru,Branch,Yes,32,34000,6.1,2,2026-10-28,52.8
+C1206,Savings,Delhi,Mobile App,Yes,38,39000,7.7,2,2026-06-09,63.3
+C1075,Savings,Chennai,Mobile App,Yes,37,51500,1.0,1,2026-07-20,59.5
+C1057,Current,Chennai,Net Banking,No,51,68500,3.4,2,2025-09-19,52.0
+C1189,Salary,Delhi,Branch,No,22,119000,2.7,2,2025-02-18,47.6
+C1117,Current,Mumbai,Mobile App,No,38,46000,2.1,0,2025-05-18,67.9
+C1112,Savings,Delhi,Net Banking,No,37,28000,7.0,1,2025-01-07,61.5
+C1124,Student,Pune,Mobile App,No,26,13500,5.5,1,2026-06-04,60.2
+C1163,Savings,Chennai,,Yes,39,57500,7.3,1,2024-12-20,57.3
+C1039,Savings,Bengaluru,Branch,Yes,28,22000,9.3,0,2025-12-09,70.4
+C1219,Savings,Mumbai,Branch,Yes,41,75000,7.7,2,2025-02-06,54.4
+C1104,Salary,Mumbai,Mobile App,No,23,39000,0.9,2,2025-10-26,68.3
+C1013,Salary,Chennai,Mobile App,No,45,40000,9.1,2,2025-06-06,75.7
+C1091,Salary,Delhi,Branch,Yes,37,22000,0.6,2,2026-03-12,38.2
+C1095,Current,,Net Banking,No,42,10500,0.6,2,2025-10-23,53.4
+C1078,Student,Bengaluru,Mobile App,Yes,26,7500,4.2,1,2025-08-17,63.8
+C1121,Savings,Chennai,Mobile App,No,47,31500,1.6,2,2025-06-12,50.2
+C1145,Salary,Mumbai,Net Banking,No,48,34500,6.3,1,2026-11-20,67.9
+C1120,Current,Delhi,Branch,Yes,40,45000,6.0,0,2026-01-23,65.2
+C1138,Savings,Bengaluru,Mobile App,No,35,45500,,1,2026-06-25,68.0
+C1043,Savings,Delhi,Mobile App,Yes,36,,8.2,2,2026-05-26,72.0
+C1116,Salary,Delhi,,Yes,31,18500,7.5,1,2025-01-23,65.2
+C1209,Savings,Chennai,Net Banking,No,22,53000,4.0,1,2025-08-08,54.5
+C1188,Current,Pune,Mobile App,No,40,27500,2.8,1,2024-12-08,55.8
+C1193,Current,Pune,Net Banking,Yes,61,44500,16.4,1,2025-05-02,68.5
+C1035,Salary,Mumbai,Branch,No,45,21500,7.6,0,2025-06-10,69.2
+C1011,Student,Bengaluru,Branch,Yes,26,6000,4.0,0,2025-05-31,71.3
+C1243,Current,Chennai,Mobile App,No,23,43000,5.0,1,2025-01-16,60.5
+C1137,Salary,Mumbai,Net Banking,Yes,22,40500,4.0,2,2024-12-01,62.5
+C1101,Salary,Delhi,Branch,No,56,63000,1.5,1,2026-10-12,52.4
+C1172,Salary,Pune,Mobile App,Yes,21,50500,3.0,5,2025-11-21,46.3
+C1069,Salary,Delhi,Mobile App,Yes,44,36500,4.8,3,2026-09-01,54.2
+C1002,Savings,Delhi,Mobile App,Yes,41,61500,10.9,3,2026-10-08,70.6
+C1102,Salary,Pune,Net Banking,No,28,81000,7.4,1,2025-02-09,63.1
+C1049,Savings,Delhi,Branch,No,31,,9.7,3,2026-10-08,59.5
+C1097,Salary,Delhi,Net Banking,Yes,45,36000,1.9,0,2026-04-09,64.7
+C1052,Student,Mumbai,Net Banking,No,23,,5.0,0,2025-04-27,73.2
+C1009,Savings,Pune,Branch,Yes,52,45500,2.3,0,2025-10-15,50.2
+C1180,Current,Delhi,Net Banking,No,36,21500,6.6,1,2025-07-23,64.8
+C1244,Salary,Delhi,Branch,Yes,25,101500,,0,2026-01-21,73.9
+C1085,Savings,Pune,Mobile App,Yes,43,57500,11.3,0,2024-12-24,74.3
+C1203,Current,Pune,Branch,Yes,36,24000,1.9,1,2025-01-02,56.2
+C1166,Savings,Chennai,Mobile App,No,35,43500,15.6,1,2025-03-21,76.6
+C1023,Salary,Bengaluru,Mobile App,No,51,26000,1.8,0,2025-09-27,62.6
+C1152,Current,Mumbai,Branch,No,44,159500,10.2,3,2026-09-19,50.0
+C1178,Current,Delhi,Mobile App,No,55,82000,1.5,2,2025-01-31,57.9
+C1154,Savings,Mumbai,Mobile App,No,54,32500,5.3,2,2026-04-20,58.8
+C1208,Savings,Bengaluru,Branch,Yes,46,37500,7.3,1,2025-06-13,59.4
+C1096,Current,Mumbai,Branch,No,40,67500,3.6,0,2026-04-22,58.8
+C1100,Savings,Bengaluru,Mobile App,No,21,72500,3.0,2,2025-11-19,57.1
+C1214,Salary,Bengaluru,Branch,No,22,23000,4.0,1,2024-11-27,58.3
+C1165,Savings,Mumbai,Mobile App,No,50,49000,17.0,1,2026-10-08,79.0
+C1246,Student,Mumbai,Branch,No,24,19000,6.0,1,2025-10-02,53.5
+C1113,Current,Mumbai,Mobile App,No,33,17500,9.4,3,2025-03-06,60.5
+C1037,Savings,Bengaluru,Mobile App,No,36,52500,10.3,1,2026-09-19,71.1
+C1248,Current,Delhi,Mobile App,Yes,46,18000,3.5,2,2025-08-22,67.7
+C1070,Salary,Mumbai,Mobile App,No,62,69000,9.1,3,2025-09-28,57.9
+C1234,Savings,Delhi,Net Banking,No,-28,14000,10.2,3,2024-11-29,59.3
+C1144,Student,Mumbai,Mobile App,Yes,22,10000,4.0,2,2026-02-18,55.2
+C1242,Salary,Chennai,Branch,Yes,50,63000,,2,2026-07-08,56.8
+C1229,Salary,Bengaluru,Mobile App,No,52,101500,0.8,2,2026-07-03,48.0
+C1238,Savings,Chennai,Mobile App,No,52,48500,10.2,0,2025-04-17,82.8
+C1087,Salary,Mumbai,Branch,No,31,48000,8.1,2,2024-12-09,69.1
+C1024,Savings,Bengaluru,Mobile App,Yes,44,81500,7.5,2,2026-07-06,66.0
+C1092,Student,Delhi,Branch,No,22,16000,4.0,0,2025-03-10,65.0
+C1068,Salary,Bengaluru,Mobile App,No,29,66000,11.0,0,2025-08-12,83.1
+C1114,Savings,Chennai,Mobile App,Yes,41,26000,6.0,1,2024-12-29,59.6
+C1139,Current,Mumbai,Mobile App,No,35,38000,7.7,2,2024-11-22,55.5
+C1111,Current,Bengaluru,Branch,No,44,37000,7.0,3,2025-10-25,56.1
+C1089, Savings,Bengaluru,Branch,Yes,44,32000,5.6,4,2026-04-13,40.3
+C1125,Salary,Pune,Mobile App,No,49,12500,4.4,2,2025-08-19,51.3
+C1115,Salary,Bengaluru,Mobile App,No,35,43000,3.8,0,2025-02-14,81.9
+C1177,Student,Chennai,Branch,No,24,8000,6.0,0,2026-08-07,73.7
+C1005,Savings,Mumbai,Mobile App,Yes,30,63000,2.8,2,2025-03-08,63.4
+C1041,Current ,Mumbai,Mobile App,Yes,40,48000,4.8,0,2026-06-19,69.3
+C1062,Savings,Mumbai,Net Banking,No,45,53500,2.9,2,2026-04-07,47.7
+C1235,Savings,Delhi,Net Banking,No,54,58000,4.2,1,2025-07-15,56.5
+C1200,Savings,Delhi,Branch,Yes,33,22000,14.7,2,2026-02-18,71.6
+C1182,Salary,Pune,Mobile App,No,25,71500,7.0,3,2024-12-21,61.6
+C1155,Salary,Bengaluru,Mobile App,Yes,31,34000,1.1,2,2026-04-14,43.1
+C1109,Salary,Mumbai,,No,21,83000,3.0,2,2026-03-11,61.4
+C1149,Salary,Bengaluru,Mobile App,No,52,39000,18.7,1,2026-02-13,91.4
+C1060,Savings,Mumbai,Mobile App,No,24,26500,6.0,2,2025-08-22,48.1
+C1083,Salary,Chennai,Branch,Yes,37,20500,14.9,2,2024-12-08,88.4
+C1063,Current,Pune,Net Banking,Yes,42,69500,10.9,1,2025-08-27,72.2
+C1199,student,Mumbai,Mobile App,No,55,56500,12.6,1,2025-12-25,75.1
+C1093,Current,Pune,Branch,No,41,56000,1.4,2,2026-11-02,46.0
+C1210,Salary,Mumbai,Mobile App,No,39,55000,8.1,1,2025-09-05,70.8
+C1197,Salary,Mumbai,Mobile App,Yes,41,74000,2.7,2,2026-04-14,50.5
+C1078,Student,Bengaluru,Mobile App,Yes,26,7500,4.2,1,2025-08-17,63.8
+C1230,Savings,Bengaluru,Net Banking,No,33,82000,3.5,1,2026-04-25,60.4
+C1236,Salary,Bengaluru,Mobile App,Yes,47,50000,9.1,1,2026-08-03,74.2
+C1232,Current,Bengaluru,Branch,No,49,58000,3.5,0,2026-09-30,51.4
+C1176,Current,Chennai,Branch,No,53,106500,9.8,1,2025-11-14,47.1
+C1053,Current,Delhi,Branch,No,53,31500,13.9,1,2025-06-28,67.8
+C1079,Savings,Pune,Mobile App,Yes,41,33500,4.5,1,2026-04-22,65.1
+C1001,Savings,Mumbai,Mobile App,No,39,81500,12.5,0,2026-03-05,78.1
+C1014,Current,Delhi,Mobile App,Yes,54,62000,14.6,0,2026-05-08,76.9
+C1123,Savings,Chennai,Branch,Yes,21,40000,3.0,0,2025-02-21,66.2
+C1064,Salary,Chennai,Mobile App,No,42,46500,24.0,1,2026-06-02,95.4
+C1143,Current,Mumbai,Branch,No,32,37500,11.2,2,2026-08-31,51.8
+C1170,Savings,Delhi,Net Banking,Yes,40,71000,7.7,2,2025-03-23,56.7
+C1175,Savings,Chennai,Mobile App,Yes,50,41500,6.2,2,2025-12-21,72.9
+C1146,Savings,Pune,Branch,No,35,41000,5.8,1,2025-10-28,45.9
+C1084,Salary,Bengaluru,Net Banking,No,21,68500,1.5,1,2025-07-13,65.2
+C1204,Savings,Delhi,Mobile App,Yes,42,24000,3.9,1,2026-09-30,49.6
+C1130,Savings,Pune,Branch,No,47,96500,5.8,6,2026-09-09,31.0
+C1192,Student,Pune,Net Banking,Yes,24,,3.6,0,2025-01-14,85.6
+C1217,Savings,Chennai,Mobile App,No,50,26000,10.5,0,2024-12-10,85.1
+C1048,Salary,Chennai,Mobile App,Yes,51,94500,12.7,2,2025-11-13,62.8
+C1119,Salary,Bengaluru,Branch,No,40,62000,8.5,2,2025-07-21,55.4
+C1190,Current,Chennai,Branch,Yes,35,60500,9.6,2,2025-12-28,63.8
+C1131,Savings,Mumbai,Mobile App,No,30,27500,4.5,0,2025-05-12,78.2
+C1156,Current,Bengaluru,Branch,No,21,43000,3.0,3,2026-08-18,38.5
+C1202,Salary,Chennai,Mobile App,Yes,50,182500,4.6,5,2025-11-10,51.7
+C1071,Salary,Mumbai,Mobile App,No,68,27500,14.1,2,2026-06-01,73.6
+C1174,Student,Chennai,Net Banking,Yes,23,16000,5.0,1,2026-08-20,59.5
+C1031,Savings,Pune,Mobile App,No,47,77000,10.0,1,2025-09-17,78.1
+C1164,Savings,Chennai,Branch,Yes,48,47500,4.7,1,2025-08-08,61.4
+C1140,Savings,Mumbai,Mobile App,No,41,17000,3.4,0,2024-11-27,64.6
+C1016,Student,Mumbai,Mobile App,Yes,25,6500,7.0,0,2025-07-05,77.4
+C1003,Savings,Chennai,Mobile App,Yes,21,66000,3.0,0,2025-05-23,63.8
+C1231,Savings,Bengaluru,Mobile App,No,59,101000,7.2,1,2026-07-24,75.7
+C1026,Savings,Mumbai,Mobile App,No,30,47000,12.0,0,2025-03-26,85.7
+C1066,Current,Delhi,Net Banking,No,41,117500,8.3,0,2026-09-18,65.9
+C1151,Savings,Mumbai,Branch,No,43,,2.3,0,2025-06-17,61.0
+C1191,SAVINGS,Delhi,Mobile App,Yes,54,36500,7.3,2,2025-07-25,60.1
+C1147,Salary,Mumbai,Mobile App,No,41,49000,10.4,1,2025-02-10,78.3
+C1060,Savings,Mumbai,Mobile App,No,24,26500,6.0,2,2025-08-22,48.1
+C1021,Savings,Bengaluru,Mobile App,Yes,53,61000,6.3,0,2025-12-11,68.5
+C1173,Savings,Bengaluru,Mobile App,Yes,39,56000,7.7,2,2025-02-19,69.7
+C1215,Salary,Delhi,Branch,No,28,49000,6.4,3,2026-01-01,52.4
+C1226,Salary,Pune,Mobile App,No,70,12500,12.5,1,2024-12-10,78.9
+C1007, salary,Chennai,Branch,Yes,54,30500,16.4,3,2026-06-11,56.5
+C1227,Savings,Bengaluru,Branch,No,52,32000,8.9,0,2026-02-28,67.2
+C1134,Savings,Bengaluru,Mobile App,No,30,31000,3.1,3,2026-03-30,57.1
+C1051,Current,Mumbai,Mobile App,No,32,57500,1.8,2,2024-11-25,54.4
+C1135,Salary,Delhi,Mobile App,No,65,31000,4.2,0,2025-07-25,69.4
+C1159,Savings,Delhi,Mobile App,Yes,43,83500,4.1,3,2025-02-10,61.0
+C1171,Salary,Delhi,Net Banking,No,55,79500,4.6,2,2026-10-14,61.8
+C1036,Savings,Mumbai,Net Banking,Yes,56,36000,5.5,3,2026-07-30,42.0
+C1076,Salary,Delhi,Branch,No,58,20000,11.7,0,2026-10-29,62.7
+C1141,Savings,Bengaluru,Mobile App,No,26,37000,1.0,2,2025-08-28,56.6
+C1126,Student,Mumbai,Branch,No,26,6500,7.4,2,2025-05-04,53.9
+C1221,Student,Chennai,Net Banking,No,21,16000,3.0,3,2025-07-01,50.3
+C1220,Savings,Pune,Net Banking,No,52,29500,8.2,1,2026-08-31,62.8
+C1224,Savings,Mumbai,Branch,Yes,45,46500,1.3,4,2026-07-18,34.9
+C1223,Savings,Bengaluru,Mobile App,Yes,39,96500,6.2,1,2026-09-24,70.8
+C1074,Savings,Delhi,Mobile App,No,48,122000,4.2,0,2025-04-08,63.8
+C1122,Salary,Chennai,,No,43,31000,5.3,0,2025-10-19,73.7
+C1205,Savings,Mumbai,Mobile App,No,44,25500,11.0,2,2026-09-18,70.0
+C1158,Savings,Chennai,Branch,Yes,41,83000,11.1,1,2025-02-28,54.9
+C1169,Salary,Delhi,Branch,Yes,21,93000,3.0,3,2025-05-25,31.6
+C1245,Student,Mumbai,Mobile App,No,26,14500,8.0,0,2026-05-05,81.0
+C1044,Salary,Chennai,,Yes,21,59000,1.3,1,2025-07-17,45.9
+C1015,Savings,Pune,Branch,No,34,43500,0.9,2,2025-11-28,49.1
+C1213,Savings,Delhi,Mobile App,No,25,28500,7.0,2,2026-11-01,68.5
+C1099,Salary,Mumbai,Branch,No,34,46500,11.2,0,2026-01-01,73.0
+C1225,Salary,Pune,Branch,Yes,39,56000,2.1,1,2026-06-11,56.0
+C1006,Salary,Pune,Branch,No,22,144500,4.0,2,2025-10-07,50.3
+C1058,Savings,Delhi,Branch,No,28,45500,2.7,1,2026-11-14,57.9
+C1118,Salary,Delhi,Mobile App,No,46,32000,2.2,3,2025-11-01,46.2
+C1110,Student,Delhi,Mobile App,Yes,23,7000,5.0,2,2025-06-18,55.6
+C1216,Savings,Bengaluru,Net Banking,No,30,58500,3.2,0,2026-09-26,64.9
+C1247,Savings,Chennai,Mobile App,No,35,13500,10.5,1,2025-05-07,72.6
+C1086,Savings,Delhi,Net Banking,No,49,41500,9.0,0,2026-05-14,64.5
+C1241,Savings,Mumbai,Branch,No,34,51000,13.9,1,2025-10-14,64.3
+C1065,Salary,Chennai,Branch,Yes,22,32000,4.0,0,2026-10-24,71.1
+C1011,Student,Bengaluru,Branch,Yes,26,6000,4.0,0,2025-05-31,71.3
+C1055,Current,Chennai,Branch,No,22,23000,4.0,1,2025-04-16,64.6
+C1072,Salary,Chennai,Mobile App,No,29,36000,6.1,1,2025-09-11,62.9
+C1103,Current,Mumbai,Branch,No,49,29000,3.4,1,2026-05-09,63.1
+C1082,Current,Bengaluru,Branch,No,34,56500,3.5,3,2025-11-11,52.0
+C1098,Salary,Delhi,Mobile App,No,40,28500,11.6,0,2025-12-14,91.0
+C1042,Savings,Bengaluru,Mobile App,Yes,38,26000,9.1,2,2025-12-29,55.9
+C1218,Savings,Pune,Net Banking,Yes,49,32500,7.1,1,2026-07-17,56.9
+C1148,Salary,Delhi,Branch,Yes,21,28000,3.0,3,2025-11-06,41.2
+C1195,Savings,Chennai,Mobile App,Yes,49,38500,4.1,2,2025-10-24,65.0
+C1211,Savings,Delhi,Mobile App,Yes,46,56500,2.8,1,2025-03-13,59.5
+C1129,Current,Delhi,Net Banking,No,22,97000,4.0,1,2026-02-24,73.7
+C1008,Current,Delhi,Mobile App,No,43,27000,10.1,1,2025-11-09,66.6
